@@ -22,9 +22,9 @@ Community Support: Python has a large, active community and extensive documentat
 
 ## Python Basics
 
-##Writing and Running Your First Python Script
+## Writing and Running Your First Python Script
 
-**Create a Python Script:
+** Create a Python Script:
 
 Open your code editor and create a new file named hello.py.
 
