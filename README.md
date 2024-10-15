@@ -22,6 +22,18 @@ Community Support: Python has a large, active community and extensive documentat
 
 ## Python Basics
 
+##Writing and Running Your First Python Script
+
+**Create a Python Script:
+
+Open your code editor and create a new file named hello.py.
+
+````Type the code
+
+print('this is my first python code')
+
+````
+
 **1. Variables and Data Types**  
 Variables store data. You don't need to declare the type.
 ```python
